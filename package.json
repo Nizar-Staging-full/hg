@@ -44,7 +44,7 @@
     "depcheck": "0.6.7",
     "ramda": "0.23.0",
     "semver": "5.3.0",
-	"knex" : "2.4.1",
+	"knex" : "2.5.1",
 	"cordova-simulator" : "0.2.0",
 	"mime" : "2.5.0",
 	"fileserver" : "0.1.2",
